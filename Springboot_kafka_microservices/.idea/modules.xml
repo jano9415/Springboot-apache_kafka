@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Base_domains/Base_domains.iml" filepath="$PROJECT_DIR$/Base_domains/Base_domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email_service/Email_service.iml" filepath="$PROJECT_DIR$/Email_service/Email_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order_service/Order_service.iml" filepath="$PROJECT_DIR$/Order_service/Order_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Springboot_kafka_microservices.iml" filepath="$PROJECT_DIR$/.idea/Springboot_kafka_microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock_service/Stock_service.iml" filepath="$PROJECT_DIR$/Stock_service/Stock_service.iml" />
+    </modules>
+  </component>
+</project>
